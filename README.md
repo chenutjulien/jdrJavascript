@@ -1,2 +1,2 @@
 # jdrJavascript
-Jeux de roles types Livres dont vous êtes le héros en javascript
+Aventure rolistique en JavaScript, version console
